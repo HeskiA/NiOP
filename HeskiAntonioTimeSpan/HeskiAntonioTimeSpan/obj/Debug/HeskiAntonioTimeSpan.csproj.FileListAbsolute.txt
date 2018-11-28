@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\bin\Debug\HeskiAntonioTimeSpan.exe.config
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\bin\Debug\HeskiAntonioTimeSpan.exe
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\bin\Debug\HeskiAntonioTimeSpan.pdb
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\obj\Debug\HeskiAntonioTimeSpan.csprojAssemblyReference.cache
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\obj\Debug\HeskiAntonioTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\obj\Debug\HeskiAntonioTimeSpan.exe
+C:\Users\Učenik\source\repos\HeskiAntonioTimeSpan\HeskiAntonioTimeSpan\obj\Debug\HeskiAntonioTimeSpan.pdb

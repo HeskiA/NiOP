@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\bin\Debug\HeskiAntonioSystemIO.exe.config
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\bin\Debug\HeskiAntonioSystemIO.exe
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\bin\Debug\HeskiAntonioSystemIO.pdb
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\obj\Debug\HeskiAntonioSystemIO.csprojAssemblyReference.cache
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\obj\Debug\HeskiAntonioSystemIO.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\obj\Debug\HeskiAntonioSystemIO.exe
+C:\Users\Učenik\source\repos\HeskiAntonioSystemIO\HeskiAntonioSystemIO\obj\Debug\HeskiAntonioSystemIO.pdb

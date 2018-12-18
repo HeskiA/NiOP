@@ -1,0 +1,7 @@
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\bin\Debug\SystemIOFilePathDirectoryInfo.exe.config
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\bin\Debug\SystemIOFilePathDirectoryInfo.exe
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\bin\Debug\SystemIOFilePathDirectoryInfo.pdb
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\obj\Debug\SystemIOFilePathDirectoryInfo.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\obj\Debug\SystemIOFilePathDirectoryInfo.csproj.CoreCompileInputs.cache
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\obj\Debug\SystemIOFilePathDirectoryInfo.exe
+e:\documents\visual studio 2017\Projects\SystemIOFilePathDirectoryInfo\SystemIOFilePathDirectoryInfo\obj\Debug\SystemIOFilePathDirectoryInfo.pdb

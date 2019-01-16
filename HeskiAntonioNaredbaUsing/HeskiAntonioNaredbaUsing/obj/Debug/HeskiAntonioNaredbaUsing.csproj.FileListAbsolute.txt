@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\obj\Debug\HeskiAntonioNaredbaUsing.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\obj\Debug\HeskiAntonioNaredbaUsing.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\bin\Debug\HeskiAntonioNaredbaUsing.exe.config
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\bin\Debug\HeskiAntonioNaredbaUsing.exe
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\bin\Debug\HeskiAntonioNaredbaUsing.pdb
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\obj\Debug\HeskiAntonioNaredbaUsing.exe
+C:\Users\Ucenik\source\repos\HeskiAntonioNaredbaUsing\HeskiAntonioNaredbaUsing\obj\Debug\HeskiAntonioNaredbaUsing.pdb

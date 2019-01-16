@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\bin\Debug\HeskiAntonioStreamWriter.exe.config
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\bin\Debug\HeskiAntonioStreamWriter.exe
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\bin\Debug\HeskiAntonioStreamWriter.pdb
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\obj\Debug\HeskiAntonioStreamWriter.csprojAssemblyReference.cache
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\obj\Debug\HeskiAntonioStreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\obj\Debug\HeskiAntonioStreamWriter.exe
+C:\Users\Ucenik\source\repos\HeskiAntonioStreamWriter\HeskiAntonioStreamWriter\obj\Debug\HeskiAntonioStreamWriter.pdb

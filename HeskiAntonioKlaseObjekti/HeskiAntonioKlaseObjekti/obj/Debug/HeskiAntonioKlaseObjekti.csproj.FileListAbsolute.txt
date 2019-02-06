@@ -1,0 +1,7 @@
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\bin\Debug\HeskiAntonioKlaseObjekti.exe.config
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\bin\Debug\HeskiAntonioKlaseObjekti.exe
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\bin\Debug\HeskiAntonioKlaseObjekti.pdb
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\obj\Debug\HeskiAntonioKlaseObjekti.csprojAssemblyReference.cache
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\obj\Debug\HeskiAntonioKlaseObjekti.csproj.CoreCompileInputs.cache
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\obj\Debug\HeskiAntonioKlaseObjekti.exe
+c:\users\učenik\source\repos\HeskiAntonioKlaseObjekti\HeskiAntonioKlaseObjekti\obj\Debug\HeskiAntonioKlaseObjekti.pdb

@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\obj\Debug\HeskiAntonioZadatakZaKraj.csprojAssemblyReference.cache
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\obj\Debug\HeskiAntonioZadatakZaKraj.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\bin\Debug\HeskiAntonioZadatakZaKraj.exe.config
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\bin\Debug\HeskiAntonioZadatakZaKraj.exe
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\bin\Debug\HeskiAntonioZadatakZaKraj.pdb
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\obj\Debug\HeskiAntonioZadatakZaKraj.exe
+C:\Users\Učenik\source\repos\HeskiAntonioZadatakZaKraj\HeskiAntonioZadatakZaKraj\obj\Debug\HeskiAntonioZadatakZaKraj.pdb
